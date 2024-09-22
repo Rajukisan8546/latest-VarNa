@@ -1,6 +1,3 @@
-
-Here’s a comprehensive README file for your project:
-
 Dynamic Gradient Background Changer
 Project Overview
 The Dynamic Gradient Background Changer is a web application that allows users to change the background color to a randomly generated gradient with the click of a button. This project uses HTML, CSS, and JavaScript to create interactive, visually pleasing gradient transitions. It's a great example of using JavaScript for DOM manipulation and generating random color values to create dynamic and engaging effects.
