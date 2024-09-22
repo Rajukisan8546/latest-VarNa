@@ -18,8 +18,6 @@ Getting Started
 Installation
 Clone this repository:
 bash
-Copy code
-git clone https://github.com/yourusername/gradient-background-changer.git
 Navigate to the project folder:
 bash
 Copy code
